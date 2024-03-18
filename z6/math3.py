@@ -1,0 +1,8 @@
+print('Введи число: ')
+Number1 = float(input())
+print('Введите ещё одно число: ')
+Number2 = float(input())
+print(Number1 + Number2)
+print(Number1 * Number2)
+print(Number1 / Number2)
+print(Number1 - Number2)
