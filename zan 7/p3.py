@@ -22,4 +22,5 @@ btn1.place(x=190, y = 150)
 ent1 = Entry(wind, font="Arial 15", width=15)
 ent1.place(x=190, y = 90)
 
-mainloop()'''
+mainloop()
+'''
